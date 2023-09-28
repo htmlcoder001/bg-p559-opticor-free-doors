@@ -1,0 +1,16 @@
+<svg id="Close_h" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff8400;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="circle" class="cls-1" cx="10" cy="10" r="10"/>
+  <path id="Shape" class="cls-2" d="M1573.01,27.4l-0.6.6-5.42-5.406,0.6-.6Zm0-4.806L1567.59,28l-0.6-.6L1572.41,22Z" transform="translate(-1560 -15)"/>
+</svg>

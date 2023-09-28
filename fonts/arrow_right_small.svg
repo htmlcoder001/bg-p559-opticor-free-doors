@@ -1,0 +1,17 @@
+<svg id="arrow_right_small" xmlns="http://www.w3.org/2000/svg" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #ccc;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="Ellipse" class="cls-1" cx="18.5" cy="18.5" r="18"/>
+  <path id="arrow_next" data-name="arrow | next" class="cls-2" d="M1569,1328l7-8-7-8h2l7,8-7,8h-2Z" transform="translate(-1553.5 -1301.5)"/>
+</svg>

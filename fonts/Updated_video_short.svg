@@ -1,0 +1,16 @@
+<svg id="Updated_video_short" xmlns="http://www.w3.org/2000/svg" width="41" height="40" viewBox="0 0 41 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff8400;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <rect id="pad" class="cls-1" width="41" height="40"/>
+  <path id="Video_icon" data-name="Video icon" class="cls-2" d="M470,292a10,10,0,1,1,10-10A10.011,10.011,0,0,1,470,292Zm0-18.758A8.758,8.758,0,1,0,478.758,282,8.768,8.768,0,0,0,470,273.241Zm-1.391,13.026a0.826,0.826,0,0,1-1.376-.771v-7.027a0.828,0.828,0,0,1,1.378-.774l5.636,3.433a0.908,0.908,0,0,1,0,1.684Z" transform="translate(-449 -262)"/>
+</svg>

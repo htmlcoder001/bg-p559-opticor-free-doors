@@ -1,0 +1,17 @@
+<svg id="Close" xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #000;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <circle id="circle" class="cls-1" cx="10.5" cy="10.5" r="10"/>
+  <path id="Shape" class="cls-2" d="M1573,27.4l-0.6.6-5.43-5.406,0.6-.6Zm0-4.806L1567.57,28l-0.6-.6L1572.4,22Z" transform="translate(-1559.5 -14.5)"/>
+</svg>

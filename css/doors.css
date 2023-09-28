@@ -123,18 +123,6 @@
     width: 80% !important;
 }
 
-body * {
-    font-family:  sans-serif;
-}
-
-p,
-ul li,
-ol li {
-    font-size: 22px !important;
-    line-height: 26px !important;
-}
-
-
 @media (max-width: 768px) {
 
     .card__item__sale .card__item__sale-100,
